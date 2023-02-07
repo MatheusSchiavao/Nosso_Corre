@@ -4,17 +4,11 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
+  
   <title>Nosso Corre</title>
 </head>
 <body id="top">
- <!--Skippy-->
- <a id="skippy" class="visually-hidden-focusable" href="#content">
-  <div class="container">
-    <span class="skiplink-text">Skip to main content</span>
-  </div>
-</a>
+ 
 
 <!-- progress scroll -->
 <progress id="progress-bar" class="progress-one" max="100">
@@ -46,13 +40,13 @@
         <ul class="navbar-nav ms-auto mt-2 mt-lg-0">
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" id="navbarDropdown1">
-              Home
+              Início
             </a>
             <div class="dropdown-menu dropdown-md dropdown-menu-lg-center py-0" aria-labelledby="navbarDropdown1">
               <div class="row g-0">
                 <div class="col-12 col-md-6">
                   <div class="dropdown-md-area">
-                    <p class="dropdown-md-title">Corporate</p>
+                    <p class="dropdown-md-title">Corporação</p>
                     <a class="dropdown-item d-flex" href="index-agency.html">
                       <div class="drop-icon bg-primary text-light rounded-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-briefcase" viewBox="0 0 16 16">
@@ -61,7 +55,7 @@
                         </svg>
                       </div>
                       <div class="drop-text">
-                        <p class="fw-medium">Agency</p>
+                        <p class="fw-medium">Agência</p>
                       </div>
                     </a>
                     <a class="dropdown-item d-flex" href="index-company.html">
@@ -72,7 +66,7 @@
                         </svg>
                       </div>
                       <div class="drop-text">
-                        <p class="fw-medium">Company</p>
+                        <p class="fw-medium">Companhia</p>
                       </div>
                     </a>
                     <a class="dropdown-item d-flex" href="index-coworking.html">
@@ -82,7 +76,7 @@
                         </svg>
                       </div>
                       <div class="drop-text">
-                        <p class="fw-medium">Coworking</p>
+                        <p class="fw-medium">Trablhos em conjunto</p>
                       </div>
                     </a>
                     <a class="dropdown-item d-flex" href="index-course.html">
@@ -93,7 +87,7 @@
                         </svg>
                       </div>
                       <div class="drop-text">
-                        <p class="fw-medium">Course</p>
+                        <p class="fw-medium">Cursos</p>
                       </div>
                     </a>
                     <a class="dropdown-item d-flex" href="index-portfolio.html">
@@ -111,7 +105,7 @@
                 </div>
                 <div class="col-12 col-md-6 bg-light">
                   <div class="dropdown-md-area">
-                    <p class="dropdown-md-title">App &amp; Others</p>
+                    <p class="dropdown-md-title">App &amp; Outros</p>
                     <a class="dropdown-item d-flex" href="index-default.html">
                       <div class="drop-icon bg-primary text-light rounded-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-braces" viewBox="0 0 16 16">
@@ -130,7 +124,7 @@
                         </svg>
                       </div>
                       <div class="drop-text">
-                        <p class="fw-medium">Mobile App</p>
+                        <p class="fw-medium">App Mobile</p>
                       </div>
                     </a>
                     <a class="dropdown-item d-flex" href="index-desktop.html">
@@ -141,7 +135,7 @@
                         </svg>
                       </div>
                       <div class="drop-text">
-                        <p class="fw-medium">Desktop App</p>
+                        <p class="fw-medium">App Desktop</p>
                       </div>
                     </a>
                     <a class="dropdown-item d-flex" href="index-personal.html">
@@ -151,7 +145,7 @@
                         </svg>
                       </div>
                       <div class="drop-text">
-                        <p class="fw-medium">Personal</p>
+                        <p class="fw-medium">Pessoal</p>
                       </div>
                     </a>
                     <a class="dropdown-item d-flex" href="index-event.html">
@@ -161,13 +155,13 @@
                         </svg>
                       </div>
                       <div class="drop-text">
-                        <p class="fw-medium">Event <span class="badge small bg-success ms-2">new</span></p>
+                        <p class="fw-medium">Eventos <span class="badge small bg-success ms-2">Novo</span></p>
                       </div>
                     </a>
                   </div>
                 </div>
                 <div class="col-12 border-top text-center">
-                  <div class="p-3 small">Pre-build landing pages for your your personal and business site.</div>
+                  <div class="p-3 small">Nosso Corre.</div>
                 </div>
               </div>
             </div>
@@ -180,28 +174,27 @@
             <ul class="dropdown-menu dropdown-menu-lg-center" aria-labelledby="navbarhome">
               <!--submenu-->
               <li class="dropdown-submenu">
-                <a id="sub2" class="dropdown-item dropdown-toggle" href="#">Pages</a>
+                <a id="sub2" class="dropdown-item dropdown-toggle" href="#">Páginas</a>
                 <!--link-->
                 <ul class="submenu dropdown-menu" aria-labelledby="sub2">
                   <li class="dropdown-submenu">
                     <a id="sub350" class="dropdown-item dropdown-toggle" href="#">
-                    Basic</a>
+                    Básico</a>
                     <!--child submenu-->
                     <ul class="submenu dropdown-menu" aria-labelledby="sub350">
-                      <li><a class="dropdown-item" href="404.html">404</a></li>
-                      <li><a class="dropdown-item" href="classic-page.html">Classic</a></li>
-                      <li><a class="dropdown-item" href="coming-soon.html">Coming Soon</a></li>
+                      <li><a class="dropdown-item" href="classic-page.html">Clássico</a></li>
+                      <li><a class="dropdown-item" href="coming-soon.html">Em breve</a></li>
                       <li><a class="dropdown-item" href="faq.html">FAQ</a></li>
-                      <li><a class="dropdown-item" href="terms.html">Term of Use</a></li>
+                      <li><a class="dropdown-item" href="terms.html">Termos de uso</a></li>
                     </ul>
                     <!--End child submenu-->
                   </li>
-                  <li><a class="dropdown-item" href="about.html">About</a></li>
-                  <li><a class="dropdown-item" href="career.html">Career</a></li>
-                  <li><a class="dropdown-item" href="contact.html">Contact</a></li>
+                  <li><a class="dropdown-item" href="about.html">Sobre nós</a></li>
+                  <li><a class="dropdown-item" href="career.html">Carreira</a></li>
+                  <li><a class="dropdown-item" href="contact.html">Contatos</a></li>
                   <li><a class="dropdown-item" href="portfolio.html">Portfolio</a></li>
-                  <li><a class="dropdown-item" href="pricing.html">Pricing</a></li>
-                  <li><a class="dropdown-item" href="service.html">Services</a></li>
+                  <li><a class="dropdown-item" href="pricing.html">Preços</a></li>
+                  <li><a class="dropdown-item" href="service.html">Serviços</a></li>
                 </ul>
               </li>
               <!--end submenu-->
@@ -236,8 +229,6 @@
           </li>
 
           <!--mega menu-->
-          <li class="nav-item dropdown">
-            <a id="navbarmega3" class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Sections</a>
             <div class="dropdown-menu dropdown-lg dropdown-menu-lg-center overflow-hidden p-0" aria-labelledby="navbarmega3">
               <div class="row g-0">
                 <div class="col-lg-4">
@@ -248,8 +239,6 @@
                     <!-- banner content -->
                     <div class="header-banner-content">
                       <div class="mb-4 px-lg-4">
-                        <h3 class="h4 text-light">Sections</h3>
-                        <p class="text-light">Section for any project.</p>
                       </div>
                       <a class="btn btn-light btn-sm" href="index.html">
                         Overview 
@@ -378,15 +367,8 @@
             </div>
           </li>
 
-          <li class="nav-item">
-            <a class="nav-link" href="docs/svg-img/ionicons.html">Icons</a>
-          </li>
+          
         </ul>
-        <div class="d-grid d-lg-block my-3 my-lg-0 ms-0 ms-lg-4">
-          <a class="btn btn-warning btn-sm" target="_blank" rel="noopener" href="https://wrapbootstrap.com/checkout?s=WB0X617B2&l=s">
-            <svg xmlns="http://www.w3.org/2000/svg" class="me-1" width="1.2rem" height="1.2rem" fill="currentColor" viewBox="0 0 512 512"><circle cx="176" cy="416" r="16" style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px"/><circle cx="400" cy="416" r="16" style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px"/><polyline points="48 80 112 80 160 352 416 352" style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px"/><path d="M160,288H409.44a8,8,0,0,0,7.85-6.43l28.8-144a8,8,0,0,0-7.85-9.57H128" style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px"/></svg> Buy Now
-          </a>
-        </div>
       </div>
     </div>
   </nav>
@@ -394,9 +376,7 @@
 
 <main id="content">
   <div id="hero" class="section bg-gradient-primary py-8 py-lg-9 overflow-hidden">
-    <!-- background overlay -->
-    <div class="overlay bg-gradient-primary opacity-90 z-index-n1"></div>
-
+    
     <!-- icon SVG do landing page -->
     <div class="particle">
       <div class="particle-move-up d-none d-lg-block particle-move-up-1 text-light z-index-n1 opacity-60">
@@ -406,7 +386,7 @@
       <img src="./src/images/svg/restaurant.svg" alt="Restaurante"> 
       </div> 
       <div class="particle-move-up d-none d-sm-block particle-move-up-3 text-light z-index-n1 opacity-60">
-      <img src="./src/images/svg/music-alt.svg" alt="<Música"> 
+      <img src="./src/images/svg/music-alt.svg" alt="Música"> 
       </div> 
       <div class="particle-move-up d-none d-xl-block particle-move-up-4 text-light z-index-n1 opacity-60">
       <img src="./src/images/svg/headset.svg" alt="Headset">
@@ -460,19 +440,19 @@
       <!-- row -->
       <div class="row justify-content-center">
         <!-- hero content -->
-        <div class="col-md-9 col-lg-6 align-self-center pe-lg-5" data-aos="flip-up">
-          <div class="text-center text-lg-start mt-4 mt-lg-0">
+        <div class="col-md-9 col-lg-4 align-self-center pe-lg-5" data-aos="flip-up">
+          <div class="text-center text-lg-start mt-2 mt-lg-0">
             <div class="mb-3">
-              <span class="badge bg-secondary rounded">New</span>
-              <span class="text-light ms-1">Next Generation Template</span>
+              <span class="badge bg-secondary rounded">Novo</span>
+              <span class="text-light ms-1">#</span>
             </div>
             <div class="mb-5">
-              <h1 class="display-5 fw-bold text-white mb-3"><span class="text-warning">Core Web Vital</span><br> Template for <span data-toggle="typed" data-options='{"strings": ["StartUp", "Apps", "Company", "Portfolio"]}'></span>
+              <h1 class="display-5 fw-bold text-white mb-3"><span class="text-warning">Se identifique.</span><span data-toggle="typed" data-options='{"strings": ["StartUp", "Apps", "Company", "Portfolio"]}'></span>
               </h1>
-              <p class="lead text-light">Onekit is a Bootstrap 5 landing page template with a flat design and fast loading. This template is perfect for building awesome landing page sites.</p>
+              <p class="lead text-light">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit sapiente dignissimos inventore blanditiis doloribus, dolore officiis voluptatibus aspernatur impedit nobis.</p>
             </div>
             <a class="btn btn-white hover-button-up" href="#performance">
-              <!-- <i class="fas fa-desktop"></i> -->
+              <i class="fas fa-desktop"></i>
               <svg xmlns="http://www.w3.org/2000/svg" class="me-1" width="1.2rem" height="1.2rem" fill="currentColor" viewBox="0 0 512 512">
                 <path d="M315.27,33,96,304H224L192.49,477.23a2.36,2.36,0,0,0,2.33,2.77h0a2.36,2.36,0,0,0,1.89-.95L416,208H288L319.66,34.75A2.45,2.45,0,0,0,317.22,32h0A2.42,2.42,0,0,0,315.27,33Z" style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px"/>
                </svg> Test Drive
@@ -480,11 +460,9 @@
           </div>
         </div>
         <!-- hero image -->
-        <div class="col-md-9 col-lg-6 align-self-center">
-          <div class="px-3 px-sm-7 px-md-2 px-xl-7 mt-5 mt-lg-0 mb-n9" data-aos="fade-up" data-aos-delay="100">
-            <!--googleoff: index-->
-            <img class="img-fluid animated-up-down" src="src/img-min/svg/start_up.svg" alt="images title">
-            <!--googleon: index-->
+        <div class="col-md-9 col-lg-8 align-self-center">
+          <div class="px-2 px-sm-7 px-md-2 px-xl-7 mt-5 mt-lg-0 mb-n7" data-aos="fade-up" data-aos-delay="100">
+            <img class="img-fluid animated-up-down" src="./src/images/vetor_animation/Caramelo(NB).svg" alt="images title">
           </div>
         </div>
       </div><!-- end row -->
@@ -501,5 +479,8 @@
   </div><!-- end hero -->
 
   <?php require("sources.html"); ?>
+
+    <!-- Link JS -->
+    <script src="./src/js/main.js"></script>
 </body>
 </html>
