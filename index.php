@@ -366,8 +366,7 @@
               </div>
             </div>
           </li>
-
-          
+     
         </ul>
       </div>
     </div>
@@ -375,7 +374,7 @@
 </header>
 
 <main id="content">
-  <div id="hero" class="section bg-gradient-primary py-8 py-lg-9 overflow-hidden">
+  <div id="hero" class="section bg-gradient-primary py-6 py-lg-7 overflow-hidden">
     
     <!-- icon SVG do landing page -->
     <div class="particle">
@@ -441,15 +440,14 @@
       <div class="row justify-content-center">
         <!-- hero content -->
         <div class="col-md-9 col-lg-4 align-self-center pe-lg-5" data-aos="flip-up">
-          <div class="text-center text-lg-start mt-2 mt-lg-0">
+          <div class="text-center text-lg-start mt-2 mt-lg-0 ms-1 my-1 px-5">
             <div class="mb-3">
-              <span class="badge bg-secondary rounded">Novo</span>
               <span class="text-light ms-1">Sejam Bem-Vindo(a)</span>
             </div>
             <div class="mb-5">
               <h1 class="display-5 fw-bold text-white mb-3"><span class="text-warning">Se identifique.</span><span data-toggle="typed" data-options='{"strings": ["StartUp", "Apps", "Company", "Portfolio"]}'></span>
               </h1>
-              <p class="lead text-light">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit sapiente dignissimos inventore blanditiis doloribus, dolore officiis voluptatibus aspernatur impedit nobis.</p>
+              <p class="lead text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia qui laborum fuga dignissimos, corporis sapiente!</p>
             </div>
             <a class="btn btn-white hover-button-up" href="#performance">
               <i class="fas fa-desktop"></i>
@@ -477,9 +475,224 @@
       </svg>
     </figure>
   </div><!-- end hero -->
-  
+  <!-- =========={ PERFORMANCE }==========  -->
+  <div id="performance" class="section py-6 py-md-7 bg-white">
+        <div class="container">
+          <!-- row -->
+          <div class="row text-center">
+            <div class="col-12">
+              <div class="mb-5">
+                <h2 class="h3 fw-bold">Onekit Test Drive</h2>
+                <hr class="divider my-4 mx-auto bg-warning border-warning">
+                <p class="lead text-muted">You should try "onekit" performance and features.</p>
+              </div>
+            </div>
+          </div>
+ 
+          <!-- showcase 1 -->
+          <div class="row mb-5 mb-lg-7">
+            <div class="col-lg-6 align-self-center">
+              <div class="px-5 px-md-7 mb-5 mb-lg-0" data-aos="fade-right" data-aos-delay="100">
+                <img src="./src/images/svg/vetor_animation/Futebol(NB).svg" class="img-fluid" alt="landing page">
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <!-- processs vertical -->
+              <ol class="process-vertical ps-0" data-aos="flip-up">
+                <li class="process-vertical-item">
+                  <div class="process-vertical-icon">
+                    <div class="process-vertical-icon-bg me-auto rounded-circle p-2">
+                      <span>
+                        <svg class="bi bi-bar-chart text-primary" width="1.5rem" height="1.5rem" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                          <path fill-rule="evenodd" d="M4 11H2v3h2v-3zm5-4H7v7h2V7zm5-5h-2v12h2V2zm-2-1a1 1 0 00-1 1v12a1 1 0 001 1h2a1 1 0 001-1V2a1 1 0 00-1-1h-2zM6 7a1 1 0 011-1h2a1 1 0 011 1v7a1 1 0 01-1 1H7a1 1 0 01-1-1V7zm-5 4a1 1 0 011-1h2a1 1 0 011 1v3a1 1 0 01-1 1H2a1 1 0 01-1-1v-3z" clip-rule="evenodd"></path>
+                        </svg>
+                      </span>
+                    </div>
+                  </div>
+
+                  <div class="process-vertical-content ms-lg-4">
+                    <h3 class="h5">Google Core Web Vitals</h3>
+                    <p>Test the performance of Onekit template with Google Core Web Vitals in Web.Dev.</p>
+                  </div>
+                </li>
+
+                <li class="process-vertical-item">
+                  <div class="process-vertical-icon">
+                    <div class="process-vertical-icon-bg me-auto rounded-circle p-2">
+                      <span>
+                        <svg class="bi bi-lightning text-primary" width="1.5rem" height="1.5rem" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                          <path fill-rule="evenodd" d="M11.251.068a.5.5 0 01.227.58L9.677 6.5H13a.5.5 0 01.364.843l-8 8.5a.5.5 0 01-.842-.49L6.323 9.5H3a.5.5 0 01-.364-.843l8-8.5a.5.5 0 01.615-.09zM4.157 8.5H7a.5.5 0 01.478.647L6.11 13.59l5.732-6.09H9a.5.5 0 01-.478-.647L9.89 2.41 4.157 8.5z" clip-rule="evenodd"></path>
+                        </svg>
+                      </span>
+                    </div>
+                  </div>
+
+                  <div class="process-vertical-content ms-lg-4">
+                    <h3 class="h5">Fast Loading Time</h3>
+                    <p>Test the loading speed of Onekit template with Google Pagespeed Insights <a data-bs-toggle="tooltip" data-bs-placement="top" title="Click to test loading speed" target="_blank" rel="noopener noreferrer"  href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fonekit.madethemes.com">clik here</a>.</p>
+                  </div>
+                </li>
+
+                <li class="process-vertical-item">
+                  <div class="process-vertical-icon">
+                    <div class="process-vertical-icon-bg me-auto rounded-circle p-2">
+                      <span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="text-primary" width="1.5rem" height="1.5rem" fill="currentColor" viewBox="0 0 512 512"><path d="M330.7,352l77.72-192H356.9L303.74,284.07,265.93,160H226.32L185.74,284.07l-28.63-56.53L131.21,307l26.3,45h50.7l36.68-111.27,35,111.27Z"/><path d="M48.79,286.09H80.44a93.39,93.39,0,0,0,25.62-3.21l8.18-25.19,22.88-70.39a55.75,55.75,0,0,0-6-7.82Q113.54,160,79.59,160H0V352H48.79Zm41.9-81.92q6.89,6.92,6.88,18.52t-6,18.53q-6.64,7.62-24.44,7.61H48.79V197.25H67.21q16.59,0,23.48,6.92ZM376.85,317.61l14.79-37.25h42.69l-20.26-56.51L439.41,160,512,352H458.47l-12.4-34.39Z"/></svg>
+                      </span>
+                    </div>
+                  </div>
+
+                  <div class="process-vertical-content ms-lg-4">
+                    <h3 class="h5">Progressive Web App</h3>
+                    <p>Scan <a data-bs-toggle="tooltip" data-bs-placement="top" title="Click to scan qr code" href="#qr-code">qr code</a> with your smartphone and open link. Click "Add to Home Screen" and site will installed like App.</p>
+                  </div>
+                </li>
+              </ol><!-- end processs vertical -->
+            </div>
+          </div>
+          
+          <!-- showcase 2 -->
+          <div class="row mb-5 mb-lg-7">
+            <div class="col-lg-6 order-lg-2  align-self-center">
+              <div class="px-5 px-md-7 mb-5 my-lg-0" data-aos="fade-left" data-aos-delay="100">
+                <img src="./src/images/svg/vetor_animation/PC(NB).svg" class="img-fluid" alt="landing page">
+              </div>
+            </div>
+
+            <div class="col-lg-6 order-lg-1">
+              <!-- processs vertical -->
+              <ol class="process-vertical ps-0" data-aos="flip-up">
+                <li class="process-vertical-item">
+                  <div class="process-vertical-icon">
+                    <div class="process-vertical-icon-bg me-auto rounded-circle p-2">
+                      <span>
+                        <svg class="bi bi-bootstrap text-primary" width="1.5rem" height="1.5rem" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                          <path fill-rule="evenodd" d="M12 1H4a3 3 0 00-3 3v8a3 3 0 003 3h8a3 3 0 003-3V4a3 3 0 00-3-3zM4 0a4 4 0 00-4 4v8a4 4 0 004 4h8a4 4 0 004-4V4a4 4 0 00-4-4H4z" clip-rule="evenodd"></path>
+                          <path fill-rule="evenodd" d="M8.537 12H5.062V3.545h3.399c1.587 0 2.543.809 2.543 2.11 0 .884-.65 1.675-1.483 1.816v.1c1.143.117 1.904.931 1.904 2.033 0 1.488-1.084 2.396-2.888 2.396zM6.375 4.658v2.467h1.558c1.16 0 1.764-.428 1.764-1.23 0-.78-.569-1.237-1.541-1.237H6.375zm1.898 6.229H6.375V8.162h1.822c1.236 0 1.887.463 1.887 1.348 0 .896-.627 1.377-1.811 1.377z" clip-rule="evenodd"></path>
+                        </svg>
+                      </span>
+                    </div>
+                  </div>
+
+                  <div class="process-vertical-content ms-lg-4">
+                    <h3 class="h5">Bootstrap 5</h3>
+                    <p>Onekit supported Bootstrap 5 with pure vanilla javascript and no Jquery dependency</p>
+                  </div>
+                </li>
+
+                <li class="process-vertical-item">
+                  <div class="process-vertical-icon">
+                    <div class="process-vertical-icon-bg me-auto rounded-circle p-2">
+                      <span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="text-primary" width="2rem" height="2rem" viewBox="5.006 23.881 199.987 95.238"><title>W3C Logo</title><desc>W3C is a trademark (registered in numerous countries) of the World Wide Web Consortium; marks of W3C are registered and held by its host institutions MIT, ERCIM, and Keio. For more information see: http://www.w3.org/</desc><path d="M52.352 24.412l16.955 57.643L86.26 24.412h45.965v5.73l-17.308 29.816c6.08 1.949 10.679 5.498 13.795 10.641 3.119 5.146 4.681 11.184 4.681 18.121 0 8.578-2.283 15.787-6.845 21.632-4.562 5.844-10.465 8.768-17.713 8.768-5.458 0-10.211-1.732-14.262-5.201-4.054-3.469-7.054-8.164-9.002-14.09l9.585-3.975c1.404 3.586 3.256 6.412 5.556 8.475 2.299 2.066 5.009 3.1 8.125 3.1 3.271 0 6.041-1.832 8.302-5.494 2.262-3.664 3.393-8.065 3.393-13.215 0-5.691-1.209-10.096-3.623-13.213-2.811-3.662-7.215-5.496-13.216-5.496h-4.674V64.4l16.367-28.297H95.63l-1.124 1.914-24.031 81.087h-1.169l-17.54-58.69-17.536 58.69h-1.168L5.006 24.408h12.276l16.953 57.643 11.46-38.815-5.611-18.826h12.273v-.004l-.005.006z" fill="currentColor"></path><path fill="currentColor" d="M196.02 24.412c-2.41 0-4.574.869-6.215 2.535-1.74 1.768-2.709 4.051-2.709 6.412s.922 4.549 2.611 6.266c1.717 1.74 3.928 2.686 6.314 2.686 2.334 0 4.6-.945 6.36-2.658 1.688-1.641 2.611-3.828 2.611-6.289a8.944 8.944 0 0 0-2.584-6.289c-1.7-1.745-3.94-2.663-6.38-2.663h-.008zm7.78 9.024c0 2.064-.799 3.979-2.26 5.393-1.543 1.494-3.457 2.289-5.569 2.289-1.986 0-3.949-.818-5.418-2.311-1.466-1.494-2.287-3.406-2.287-5.443 0-2.039.846-4.027 2.36-5.566 1.416-1.443 3.328-2.211 5.416-2.211 2.14 0 4.051.799 5.543 2.311 1.45 1.438 2.22 3.373 2.22 5.538h-.005zm-7.53-5.321h-3.826v10.143h1.914v-4.324h1.892l2.063 4.324h2.137l-2.264-4.621c1.465-.301 2.312-1.293 2.312-2.734.01-1.84-1.391-2.788-4.221-2.788h-.007zm-.35 1.244c1.789 0 2.609.498 2.609 1.74 0 1.191-.82 1.617-2.563 1.617h-1.616v-3.357h1.57zM180.971 23.881l1.987 12.09-7.039 13.469s-2.701-5.715-7.19-8.875c-3.781-2.664-6.246-3.244-10.101-2.449-4.948 1.021-10.562 6.938-13.01 14.234-2.931 8.727-2.959 12.953-3.063 16.832-.164 6.223.816 9.896.816 9.896s-4.275-7.906-4.234-19.486c.027-8.268 1.328-15.764 5.152-23.16 3.365-6.504 8.367-10.408 12.807-10.867 4.59-.473 8.215 1.738 11.021 4.131 2.94 2.516 5.916 8.01 5.916 8.01l6.92-13.825h.018zM181.84 92.289s-3.111 5.562-5.049 7.705c-1.939 2.145-5.408 5.918-9.691 7.807-4.283 1.887-6.529 2.24-10.764 1.836-4.229-.406-8.16-2.854-9.537-3.877-1.377-1.021-4.898-4.029-6.889-6.836-1.992-2.807-5.102-8.416-5.102-8.416s1.731 5.623 2.819 8.01c.623 1.375 2.541 5.576 5.267 9.232 2.541 3.41 7.475 9.283 14.973 10.609 7.498 1.328 12.65-2.041 13.926-2.855 1.273-.814 3.961-3.066 5.664-4.889 1.775-1.896 3.457-4.32 4.385-5.773.682-1.062 1.789-3.215 1.789-3.215l-1.79-9.331-.001-.007z"></path></svg>
+                      </span>
+                    </div>
+                  </div>
+
+                  <div class="process-vertical-content ms-lg-4">
+                    <h3 class="h5">Validated by W3C</h3>
+                    <p>All HTML pages are validated by W3C standards, test Onekit quality code <a data-bs-toggle="tooltip" data-bs-placement="top" title="Click to test quality code" target="_blank" rel="noopener noreferrer"  href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fonekit.madethemes.com%2F">clik here</a> .</p>
+                  </div>
+                </li>
+
+                <li class="process-vertical-item">
+                  <div class="process-vertical-icon">
+                    <div class="process-vertical-icon-bg me-auto rounded-circle p-2">
+                      <span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="text-primary" width="1.5rem" height="1.5rem" fill="currentColor" viewBox="0 0 512 512"><line x1="48" y1="112" x2="336" y2="112" style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px"/><line x1="192" y1="64" x2="192" y2="112" style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px"/><polyline points="272 448 368 224 464 448" style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px"/><line x1="301.5" y1="384" x2="434.5" y2="384" style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px"/><path d="M281.3,112S257,206,199,277,80,384,80,384" style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px"/><path d="M256,336s-35-27-72-75-56-85-56-85" style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px"/></svg>
+                      </span>
+                    </div>
+                  </div>
+
+                  <div class="process-vertical-content ms-lg-4">
+                    <h3 class="h5">RTL Supported</h3>
+                    <p>Supported RTL layout for Arabic, Persian, Urdu and etc. Test RTL layout <a data-bs-toggle="tooltip" data-bs-placement="top" title="Click to test demo rtl" href="index-rtl.html">clik here</a></p>
+                  </div>
+                </li>
+              </ol><!-- end processs vertical -->
+            </div>
+          </div>
+
+          <!-- showcase 3 -->
+          <div class="row">
+            <div class="col-lg-6 align-self-center">
+              <div class="px-5 px-md-7 mb-5 my-lg-0" data-aos="fade-right" data-aos-delay="100">
+                <img src="./src/images/svg/vetor_animation/Music(NB).svg" class="img-fluid" alt="landing page">
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <!-- processs vertical -->
+              <ol class="process-vertical ps-0" data-aos="flip-up">
+                <li class="process-vertical-item">
+                  <div class="process-vertical-icon">
+                    <div class="process-vertical-icon-bg me-auto rounded-circle p-2">
+                      <span>
+                        <svg class="bi bi-arrows-fullscreen text-primary" width="1.5rem" height="1.5rem" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                          <path fill-rule="evenodd" d="M1.464 10.536a.5.5 0 01.5.5v3h3a.5.5 0 010 1h-3.5a.5.5 0 01-.5-.5v-3.5a.5.5 0 01.5-.5z" clip-rule="evenodd"></path>
+                          <path fill-rule="evenodd" d="M5.964 10a.5.5 0 010 .707l-4.146 4.147a.5.5 0 01-.707-.708L5.257 10a.5.5 0 01.707 0zm8.854-8.854a.5.5 0 010 .708L10.672 6a.5.5 0 01-.708-.707l4.147-4.147a.5.5 0 01.707 0z" clip-rule="evenodd"></path>
+                          <path fill-rule="evenodd" d="M10.5 1.5A.5.5 0 0111 1h3.5a.5.5 0 01.5.5V5a.5.5 0 01-1 0V2h-3a.5.5 0 01-.5-.5zm4 9a.5.5 0 00-.5.5v3h-3a.5.5 0 000 1h3.5a.5.5 0 00.5-.5V11a.5.5 0 00-.5-.5z" clip-rule="evenodd"></path>
+                          <path fill-rule="evenodd" d="M10 9.964a.5.5 0 000 .708l4.146 4.146a.5.5 0 00.708-.707l-4.147-4.147a.5.5 0 00-.707 0zM1.182 1.146a.5.5 0 000 .708L5.328 6a.5.5 0 00.708-.707L1.889 1.146a.5.5 0 00-.707 0z" clip-rule="evenodd"></path>
+                          <path fill-rule="evenodd" d="M5.5 1.5A.5.5 0 005 1H1.5a.5.5 0 00-.5.5V5a.5.5 0 001 0V2h3a.5.5 0 00.5-.5z" clip-rule="evenodd"></path>
+                        </svg>
+                      </span>
+                    </div>
+                  </div>
+
+                  <div class="process-vertical-content ms-lg-4">
+                    <h3 class="h5">Lightgallery Js</h3>
+                    <p>Included Premium plugin Lightgallery.Js javascript lightbox gallery.</p>
+                  </div>
+                </li>
+
+                <li class="process-vertical-item">
+                  <div class="process-vertical-icon">
+                    <div class="process-vertical-icon-bg me-auto rounded-circle p-2">
+                      <span>
+                        <svg class="bi bi-image text-primary" width="1.5rem" height="1.5rem" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                          <path fill-rule="evenodd" d="M14.002 2h-12a1 1 0 00-1 1v10a1 1 0 001 1h12a1 1 0 001-1V3a1 1 0 00-1-1zm-12-1a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V3a2 2 0 00-2-2h-12z" clip-rule="evenodd"></path>
+                          <path d="M10.648 7.646a.5.5 0 01.577-.093L15.002 9.5V14h-14v-2l2.646-2.354a.5.5 0 01.63-.062l2.66 1.773 3.71-3.71z"></path>
+                          <path fill-rule="evenodd" d="M4.502 7a1.5 1.5 0 100-3 1.5 1.5 0 000 3z" clip-rule="evenodd"></path>
+                        </svg>
+                      </span>
+                    </div>
+                  </div>
+
+                  <div class="process-vertical-content ms-lg-4">
+                    <h3 class="h5">Flickity Carousel</h3>
+                    <p>Included Premium plugin Flickity touch, responsive, flickable carousels.</p>
+                  </div>
+                </li>
+
+                <li class="process-vertical-item">
+                  <div class="process-vertical-icon">
+                    <div class="process-vertical-icon-bg me-auto rounded-circle p-2">
+                      <span>
+                        <svg class="bi bi-filter text-primary" width="1.5rem" height="1.5rem" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                          <path fill-rule="evenodd" d="M6 10.5a.5.5 0 01.5-.5h3a.5.5 0 010 1h-3a.5.5 0 01-.5-.5zm-2-3a.5.5 0 01.5-.5h7a.5.5 0 010 1h-7a.5.5 0 01-.5-.5zm-2-3a.5.5 0 01.5-.5h11a.5.5 0 010 1h-11a.5.5 0 01-.5-.5z" clip-rule="evenodd"></path>
+                        </svg>
+                      </span>
+                    </div>
+                  </div>
+
+                  <div class="process-vertical-content ms-lg-4">
+                    <h3 class="h5">Isotope Filter</h3>
+                    <p>Included Premium plugin Isotope filter & sort magical layouts.</p>
+                  </div>
+                </li>
+              </ol><!-- end processs vertical -->
+            </div>
+          </div>
+        </div>
+
+        <!-- waves start -->
+        <figure class="waves-bottom-center z-index-n1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+            <path class="text-white" fill="currentColor" fill-opacity="1" d="M0,224L30,229.3C60,235,120,245,180,245.3C240,245,300,235,360,218.7C420,203,480,181,540,170.7C600,160,660,160,720,176C780,192,840,224,900,240C960,256,1020,256,1080,240C1140,224,1200,192,1260,186.7C1320,181,1380,203,1410,213.3L1440,224L1440,320L1410,320C1380,320,1320,320,1260,320C1200,320,1140,320,1080,320C1020,320,960,320,900,320C840,320,780,320,720,320C660,320,600,320,540,320C480,320,420,320,360,320C300,320,240,320,180,320C120,320,60,320,30,320L0,320Z"></path>
+          </svg>
+        </figure>
+      </div><!-- End Performance -->
   <!-- Require com os links externos -->
   <?php require("sources.html"); ?>
-
+    <script src="./src/js/main.js"></script>
 </body>
 </html>
