@@ -475,16 +475,16 @@
       </svg>
     </figure>
   </div><!-- end hero -->
-  <!-- =========={ PERFORMANCE }==========  -->
+
   <div id="performance" class="section py-6 py-md-7 bg-white">
         <div class="container">
           <!-- row -->
           <div class="row text-center">
             <div class="col-12">
               <div class="mb-5">
-                <h2 class="h3 fw-bold">Onekit Test Drive</h2>
+                <h2 class="h3 fw-bold">Tópicos</h2>
                 <hr class="divider my-4 mx-auto bg-warning border-warning">
-                <p class="lead text-muted">You should try "onekit" performance and features.</p>
+                <p class="lead text-muted">Alguns tópicos abordados</p>
               </div>
             </div>
           </div>
@@ -503,16 +503,14 @@
                   <div class="process-vertical-icon">
                     <div class="process-vertical-icon-bg me-auto rounded-circle p-2">
                       <span>
-                        <svg class="bi bi-bar-chart text-primary" width="1.5rem" height="1.5rem" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                          <path fill-rule="evenodd" d="M4 11H2v3h2v-3zm5-4H7v7h2V7zm5-5h-2v12h2V2zm-2-1a1 1 0 00-1 1v12a1 1 0 001 1h2a1 1 0 001-1V2a1 1 0 00-1-1h-2zM6 7a1 1 0 011-1h2a1 1 0 011 1v7a1 1 0 01-1 1H7a1 1 0 01-1-1V7zm-5 4a1 1 0 011-1h2a1 1 0 011 1v3a1 1 0 01-1 1H2a1 1 0 01-1-1v-3z" clip-rule="evenodd"></path>
-                        </svg>
+                      <img src="./src/images/svg/icons_Hero/football.svg" alt="Futebol">
                       </span>
                     </div>
                   </div>
 
                   <div class="process-vertical-content ms-lg-4">
-                    <h3 class="h5">Google Core Web Vitals</h3>
-                    <p>Test the performance of Onekit template with Google Core Web Vitals in Web.Dev.</p>
+                    <h3 class="h5">Futebol</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, dolor.</p>
                   </div>
                 </li>
 
@@ -528,8 +526,8 @@
                   </div>
 
                   <div class="process-vertical-content ms-lg-4">
-                    <h3 class="h5">Fast Loading Time</h3>
-                    <p>Test the loading speed of Onekit template with Google Pagespeed Insights <a data-bs-toggle="tooltip" data-bs-placement="top" title="Click to test loading speed" target="_blank" rel="noopener noreferrer"  href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fonekit.madethemes.com">clik here</a>.</p>
+                    <h3 class="h5">Dança</h3>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione, sit?.</p>
                   </div>
                 </li>
 
@@ -537,14 +535,14 @@
                   <div class="process-vertical-icon">
                     <div class="process-vertical-icon-bg me-auto rounded-circle p-2">
                       <span>
-                        <svg xmlns="http://www.w3.org/2000/svg" class="text-primary" width="1.5rem" height="1.5rem" fill="currentColor" viewBox="0 0 512 512"><path d="M330.7,352l77.72-192H356.9L303.74,284.07,265.93,160H226.32L185.74,284.07l-28.63-56.53L131.21,307l26.3,45h50.7l36.68-111.27,35,111.27Z"/><path d="M48.79,286.09H80.44a93.39,93.39,0,0,0,25.62-3.21l8.18-25.19,22.88-70.39a55.75,55.75,0,0,0-6-7.82Q113.54,160,79.59,160H0V352H48.79Zm41.9-81.92q6.89,6.92,6.88,18.52t-6,18.53q-6.64,7.62-24.44,7.61H48.79V197.25H67.21q16.59,0,23.48,6.92ZM376.85,317.61l14.79-37.25h42.69l-20.26-56.51L439.41,160,512,352H458.47l-12.4-34.39Z"/></svg>
+                      <img src="./src/images/svg/icons_Hero/basketball.svg" alt="Basquete">
                       </span>
                     </div>
                   </div>
 
                   <div class="process-vertical-content ms-lg-4">
-                    <h3 class="h5">Progressive Web App</h3>
-                    <p>Scan <a data-bs-toggle="tooltip" data-bs-placement="top" title="Click to scan qr code" href="#qr-code">qr code</a> with your smartphone and open link. Click "Add to Home Screen" and site will installed like App.</p>
+                    <h3 class="h5">Basquete</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur, quisquam..</p>
                   </div>
                 </li>
               </ol><!-- end processs vertical -->
@@ -555,7 +553,7 @@
           <div class="row mb-5 mb-lg-7">
             <div class="col-lg-6 order-lg-2  align-self-center">
               <div class="px-5 px-md-7 mb-5 my-lg-0" data-aos="fade-left" data-aos-delay="100">
-                <img src="./src/images/svg/vetor_animation/PC(NB).svg" class="img-fluid" alt="landing page">
+                <img src="./src/images/svg/vetor_animation/Culinaria(NB).svg" class="img-fluid" alt="landing page">
               </div>
             </div>
 
@@ -575,8 +573,8 @@
                   </div>
 
                   <div class="process-vertical-content ms-lg-4">
-                    <h3 class="h5">Bootstrap 5</h3>
-                    <p>Onekit supported Bootstrap 5 with pure vanilla javascript and no Jquery dependency</p>
+                    <h3 class="h5">Feijoada</h3>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem, a?</p>
                   </div>
                 </li>
 
@@ -590,8 +588,8 @@
                   </div>
 
                   <div class="process-vertical-content ms-lg-4">
-                    <h3 class="h5">Validated by W3C</h3>
-                    <p>All HTML pages are validated by W3C standards, test Onekit quality code <a data-bs-toggle="tooltip" data-bs-placement="top" title="Click to test quality code" target="_blank" rel="noopener noreferrer"  href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fonekit.madethemes.com%2F">clik here</a> .</p>
+                    <h3 class="h5">Brigadeiro</h3>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium, laboriosam!.</p>
                   </div>
                 </li>
 
@@ -605,8 +603,8 @@
                   </div>
 
                   <div class="process-vertical-content ms-lg-4">
-                    <h3 class="h5">RTL Supported</h3>
-                    <p>Supported RTL layout for Arabic, Persian, Urdu and etc. Test RTL layout <a data-bs-toggle="tooltip" data-bs-placement="top" title="Click to test demo rtl" href="index-rtl.html">clik here</a></p>
+                    <h3 class="h5">Coxinha</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, quod!</p>
                   </div>
                 </li>
               </ol><!-- end processs vertical -->
@@ -639,8 +637,8 @@
                   </div>
 
                   <div class="process-vertical-content ms-lg-4">
-                    <h3 class="h5">Lightgallery Js</h3>
-                    <p>Included Premium plugin Lightgallery.Js javascript lightbox gallery.</p>
+                    <h3 class="h5">Sim</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, pariatur!</p>
                   </div>
                 </li>
 
@@ -658,8 +656,8 @@
                   </div>
 
                   <div class="process-vertical-content ms-lg-4">
-                    <h3 class="h5">Flickity Carousel</h3>
-                    <p>Included Premium plugin Flickity touch, responsive, flickable carousels.</p>
+                    <h3 class="h5">Não</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis, incidunt.</p>
                   </div>
                 </li>
 
@@ -675,24 +673,19 @@
                   </div>
 
                   <div class="process-vertical-content ms-lg-4">
-                    <h3 class="h5">Isotope Filter</h3>
-                    <p>Included Premium plugin Isotope filter & sort magical layouts.</p>
+                    <h3 class="h5">Talvez</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, dolor.</p>
                   </div>
                 </li>
               </ol><!-- end processs vertical -->
             </div>
           </div>
         </div>
-
-        <!-- waves start -->
-        <figure class="waves-bottom-center z-index-n1">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-            <path class="text-white" fill="currentColor" fill-opacity="1" d="M0,224L30,229.3C60,235,120,245,180,245.3C240,245,300,235,360,218.7C420,203,480,181,540,170.7C600,160,660,160,720,176C780,192,840,224,900,240C960,256,1020,256,1080,240C1140,224,1200,192,1260,186.7C1320,181,1380,203,1410,213.3L1440,224L1440,320L1410,320C1380,320,1320,320,1260,320C1200,320,1140,320,1080,320C1020,320,960,320,900,320C840,320,780,320,720,320C660,320,600,320,540,320C480,320,420,320,360,320C300,320,240,320,180,320C120,320,60,320,30,320L0,320Z"></path>
-          </svg>
-        </figure>
       </div><!-- End Performance -->
+      
   <!-- Require com os links externos -->
   <?php require("sources.html"); ?>
-    <script src="./src/js/main.js"></script>
+  
+  <script src="./src/js/main.js"></script>
 </body>
 </html>
