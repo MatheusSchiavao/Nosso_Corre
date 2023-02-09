@@ -4390,8 +4390,7 @@ textarea.form-control-lg {
   margin-right: var(--bs-navbar-brand-margin-end);
   font-size: var(--bs-navbar-brand-font-size);
   color: var(--bs-navbar-brand-color);
-  text-decoration: none;
-  white-space: nowrap;
+  size: 30rem;
 }
 
 .navbar-brand:hover, .navbar-brand:focus {
@@ -19149,6 +19148,8 @@ hr.divider.double-hr {
 .hover-social a:hover .youtube {
   color: #ed302f !important;
 }
+
+
 
 /*------------------------------------
   Insert Your Custom SCSS
