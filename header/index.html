@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./style.css">
+  <title>Nosso Corre</title>
+</head>
+
+<body>
+  <video poster="/header/video_hero-page.mp4" playsinline autoplay muted>
+    <source src="/header/video_hero-page.mp4" type="video/webm">
+    <source src="/header/video_hero-page.mp4" type="video/mp4">
+  </video>
+  <header>
+    <br>
+    <button>
+      Login
+    </button>
+    <button>
+      Home
+    </button>
+    <button>
+      Sobre nós
+    </button>
+    <div id="mime">
+      <h1>Nosso Corre</h1>
+    </div>
+
+    <script>
+      // O HTML da div precisa estar acima.
+      // Esconde a div no início
+      var div = document.getElementById('mime');
+      div.style.display = 'none';
+
+      // Mostra a div após 1 minuto
+      setTimeout(function () {
+        div.style.display = 'block';
+      }, 47000);
+    </script>
+  </header>
+</body>
+
+</html>
