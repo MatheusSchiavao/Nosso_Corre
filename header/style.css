@@ -82,3 +82,9 @@ button:after {
   transition-duration: 400ms;
   transition-property: width, left;
 }
+
+#mime img{
+  height: 500px;
+  padding-right: 900px;
+  padding-top: 250px;
+}
